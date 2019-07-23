@@ -1,13 +1,3 @@
----
-#
-# Here you can change the text shown in the Home page before the Latest Posts section.
-#
-# Edit cayman-blog's home layout in _layouts instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
-layout: home
----
-
 ## Biography
 
 **Fei Gao** is currently with the [Media Intelligence Lab (MIL)](http://mil.hdu.edu.cn/) and the Key Laboratory of Complex Systems Modeling and Simulation, [School of Computer Science and Technology](http://computer.hdu.edu.cn/), in [Hangzhou Dianzi University (HDU)](http://www.hdu.edu.cn/). He received his Bachelor Degree in Electronic Engineering and Ph.D. Degree in Information and Communication Engineering from [Xidian University](http://www.xidian.edu.cn/) (Xi'an, China) in 2009 and 2015, respectively. His Ph.D. advisor is Prof. [Xinbo Gao](http://see.xidian.edu.cn/faculty/xbgao/). From Oct. 2012 to Sep. 2013, he was a Visiting Ph.D. Candidate in Prof. [Dacheng Tao](http://www.uts.edu.au/staff/dacheng.tao/)'s Group, in University of Technology, Sydney (UTS) in Australia. 
