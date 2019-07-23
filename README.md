@@ -1,4 +1,4 @@
-``` enjoy life
+``` 
 Good times, hard times, but never bad times. —— Steve Jobs
 ```
 
