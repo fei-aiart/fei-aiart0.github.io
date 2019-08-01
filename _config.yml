@@ -4,8 +4,8 @@ theme: jekyll-theme-cayman
 title: Fei
 email: gaofei@hdu.edu.cn
 description: Homepage
-baseurl: "/index"
-url: "https://fei-gao.github.io"
+# baseurl: "/index"
+# url: "https://fei-gao.github.io"
 
 # Build settings
 markdown: kramdown
