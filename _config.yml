@@ -1,18 +1,9 @@
 theme: jekyll-theme-cayman
 
-# Site settings
-title: Fei
-email: gaofei@hdu.edu.cn
-description: Homepage
-# baseurl: "/index"
-# url: "https://fei-gao.github.io"
-
-# Build settings
-# # markdown: kramdown
-# permalink: pretty
-
-# highlighter: rouge
-# kramdown:
-#   input: GFM
-#   auto_ids: true
-#   syntax_highlighter: rouge
+# Site
+title: Fei Gao
+subtitle: "Fei"
+description: "Good times, hard times, but never bad times."
+author: Fei
+language:
+timezone: Asia/Shanghai
