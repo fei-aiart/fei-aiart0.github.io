@@ -16,7 +16,7 @@ He mainly applies machine learning techniques to computer vision problems. His r
 ## Selected Publications
 
 - Jun Yu, Xingxin Xu, **Fei Gao**\*, Shengjie Shi, et al., "Towards Realistic Face Photo-Sketch Synthesis via Composition-Aided GANs," IEEE Transactions on Cybernatics,  DOI: 10.1109/TCYB.2020.2972944.  (Corresponding Author) [[project](https://fei-hdu.github.io/ca-gan/)]
-- [**AiSketcher**](https://shaonianruntu.github.io/AiSketchers/): Portrait Drawing Robot.  Cooperated with [LAIR](http://aiit.org.cn/index.php/Service/index/catids/3/id/46/selectid/46/pid/19) in [AIIT](http://aiit.org.cn/). 
+- [**AiSketcher**](https://ricelll.github.io/AiSketcher/): ***Portrait Drawing Robot***.  Cooperated with [LAIR](http://aiit.org.cn/index.php/Service/index/catids/3/id/46/selectid/46/pid/19) in [AIIT](http://aiit.org.cn/). 
 - 黄菲, **高飞**, 朱静洁, 戴玲娜, 俞俊. 基于生成对抗网络的异质人脸图像合成: 进展与挑战[J]. 南京信息工程大学学报, 2019, 11(6): 660~681. 
   Fei Huang, **Fei Gao**, et al. Heterogeneous face synthesis via generative adversarial networks: progresses and challenges. Journal of Nanjing University of Information Science and Technology (Natural Science Edition), 2019, 11(6): 660-681. [[paper](http://nxdxb.cnjournals.org/ch/reader/view_abstract.aspx?file_no=20190604&flag=1)]
 - **Fei Gao***,  Jingjie Zhu, et al., "Incremental Focal Loss GANs," Information Processing & Management, 2020. (Accepted) [[paper](https://www.sciencedirect.com/science/article/pii/S003132031830150X)]
