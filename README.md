@@ -11,7 +11,7 @@ Good times, hard times, but never bad times. —— Steve Jobs
 
 He mainly applies machine learning techniques to computer vision problems. His research interests include **Artifical Intelligence (AI) + *Visual Arts*, biomedical image processing, generative models, deep learning,** etc. His research results have expounded in 20 publications at prestigious journals and conferences, such as IEEE T-NNLS, IEEE T-CYB, Pattern Recognition, Neurocomputing, and Signal Processing. He serverd for a number of journals and conferences, including IEEE T-IP, T-CYB, T-MM, AAAI, IJCAI, and CVPR, etc.
 
-[[Github]](https://github.com/fei-hdu)    [[Google Scholar]](https://scholar.google.com/citations?user=wawnisoAAAAJ&hl=en)    [[Baidu Scholar]](http://xueshu.baidu.com/scholarID/CN-BY8SCGCJ)   [[Homepage@MIL.HDU]](http://mil.hdu.edu.cn/people/fei_gao/index.html)
+[[Github]](https://github.com/fei-hdu)    [[Google Scholar]](https://scholar.google.com/citations?user=wawnisoAAAAJ&hl=en)    [[DBLP]](https://dblp.org/pid/16/722-6)   [[MIL-HDU]](http://mil.hdu.edu.cn/people/fei_gao/index.html)
 
 ## Selected Publications
 
