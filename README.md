@@ -27,7 +27,7 @@ He mainly applies machine learning techniques to computer vision problems. His r
 
   ​
 
-  <img src="images/AiSketcher.png" width = "100" alt="framework" align=center />
+  <img src="<https://github.com/fei-hdu/fei-hdu.github.io/blob/master/images/AiSketcher.png>" width = "100" alt="framework" align=center />
 
 - Lin Zhao, Meimei Shang, **Fei Gao***, et al. **Representation Learning of Image Composition for Aesthetic Prediction**. *Computer Vision and Image Understanding* (CVIU), 2020. (Accepted) [[project]](https://github.com/fei-hdu/ReLIC)~[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314220300801)]
 
