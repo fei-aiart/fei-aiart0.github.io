@@ -23,7 +23,9 @@ He mainly applies machine learning techniques to computer vision problems. His r
   > - [**AiSketcher**](https://ricelll.github.io/AiSketcher/): **Portrait Drawing Robot**.  
   >
   >
-  > - 微信小程序中可试用该功能：Try it in WeChat <img src="images/AiSketcher.png" width = "100" alt="framework" align=center />
+  > - 微信小程序中可试用该功能：Try it in WeChat 
+
+  <img src="images/AiSketcher.png" width = "100" alt="framework" align=center />
 
 - Lin Zhao, Meimei Shang, **Fei Gao***, et al. **Representation Learning of Image Composition for Aesthetic Prediction**. *Computer Vision and Image Understanding* (CVIU), 2020. (Accepted) [[project]](https://github.com/fei-hdu/ReLIC)~[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314220300801)]
 
@@ -44,4 +46,3 @@ He mainly applies machine learning techniques to computer vision problems. His r
 - **Fei Gao**, Dacheng Tao, Xinbo Gao, and Xuelong Li, "**Learning to rank for blind image quality assessment**," *IEEE Transactions on Neural Networks and Learning Systems*, vol. 26, no. 10, pp. 2275-2290, Oct. 2015. 
 
 - Xinbo Gao, **Fei Gao**, Dacheng Tao, and Xuelong Li, "**Universal blind image quality assessment metrics via natural scene statistics and multiple kernel learning**," *IEEE Transactions on Neural Networks and Learning Systems*, vol. 24, no. 12, pp. 2013-2026, 2013. 
-
