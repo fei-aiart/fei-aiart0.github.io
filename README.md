@@ -27,9 +27,9 @@ He mainly applies machine learning techniques to computer vision problems. His r
 
   ​
 
-  <img src="images/AiSketcher.png" width = "200" align=center />
+  <img src="images/AiSketcher.png" width = "200" align="center" />
 
-- Lin Zhao, Meimei Shang, **Fei Gao***, et al. **Representation Learning of Image Composition for Aesthetic Prediction**. *Computer Vision and Image Understanding* (CVIU), 2020. (Accepted) [[project]](https://github.com/fei-hdu/ReLIC)~[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314220300801)]
+- Lin Zhao, Meimei Shang, **Fei Gao***, et al. **Representation Learning of Image Composition for Aesthetic Prediction**. *Computer Vision and Image Understanding* (CVIU), vol. 199, 103024, Oct. 2020. [[project]](https://github.com/fei-hdu/ReLIC)~[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314220300801)]
 
 - Xiaoling Gu, **Fei Gao**, Min Tan, Pai Peng, **Fashion analysis and understanding with artificial intelligence**, *Information Processing & Management*, vol. 57, no. 5, pp. 102276, 2020. [[paper]](http://www.sciencedirect.com/science/article/pii/S0306457319315511)
 
