@@ -6,7 +6,7 @@ Good times, hard times, but never bad times. —— Steve Jobs
 
 ## Biography
 
-**Fei Gao** is currently with the [School of Computer Science and Technology](http://computer.hdu.edu.cn/), in [Hangzhou Dianzi University (HDU)](http://www.hdu.edu.cn/); and  the [Laboratory for Affective Intelligent Robotics (LAIR)](http://aiit.org.cn/index.php/Service/index/catids/3/id/46/selectid/46/pid/19) in [Advanced Institute of Information Technology (AIIT)](http://aiit.org.cn/). He received his Bachelor Degree in Electronic Engineering and Ph.D. Degree in Information and Communication Engineering from [Xidian University](http://www.xidian.edu.cn/) (Xi'an, China) in 2009 and 2015, respectively. From Oct. 2012 to Sep. 2013, he was a Visiting Ph.D. Candidate in University of Technology, Sydney (UTS) in Australia. 
+**Fei Gao** is currently with the [School of Computer Science and Technology](http://computer.hdu.edu.cn/), in [Hangzhou Dianzi University (HDU)](http://www.hdu.edu.cn/). He received his Bachelor Degree in Electronic Engineering and Ph.D. Degree in Information and Communication Engineering from [Xidian University](http://www.xidian.edu.cn/) (Xi'an, China) in 2009 and 2015, respectively. From Oct. 2012 to Sep. 2013, he was a Visiting Ph.D. Candidate in University of Technology, Sydney (UTS) in Australia. 
 
 
 He mainly applies machine learning techniques to computer vision problems. His research interests include **visual quality assessment and enhancement, intelligent visual arts generation, biomedical image analysis,** etc. His research results have expounded in more than 30 publications at prestigious journals and conferences. He serverd for a number of journals and conferences.
