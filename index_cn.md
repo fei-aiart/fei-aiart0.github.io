@@ -7,17 +7,24 @@ Good times, hard times, but never bad times. —— Steve Jobs
 ## 个人简介
 
 
-**高飞** ，于2015年于西安电子科技大学获得信息与通信工程专业博士学位，期间到澳大利亚悉尼科技大学访问学习1年。自2015年7月起，任职于杭州电子科技大学<a href="http://computer.hdu.edu.cn" target="_blank">计算机学院</a>。主要研究兴趣为计算机视觉与机器学习，涉及**智能视觉艺术、医学影像分析、艺术机器人**等课题。现已在主流国际期刊、会议上发表论文20余篇。主持及参与多项国家自然科学基金及浙江省自然科学基金项目。高飞还担任多个国际期刊和会议的审稿人。
+**高飞** ，于2015年于西安电子科技大学获得信息与通信工程专业博士学位，期间到澳大利亚悉尼科技大学访问学习1年。自2015年7月起，任职于杭州电子科技大学<a href="http://computer.hdu.edu.cn" target="_blank">计算机学院</a>。主要研究兴趣为计算机视觉与机器学习，涉及**智能视觉艺术、医学影像分析、艺术机器人**等课题，现已在主流国际期刊、会议上发表论文20余篇，主持及参与多项国家自然科学基金及浙江省自然科学基金项目，担任多个国际期刊和会议的审稿人。
 
 - 办公地址：1教528室
 - 更多信息： [[Github]](https://github.com/fei-hdu)    [[Google Scholar]](https://scholar.google.com/citations?user=wawnisoAAAAJ&hl=en)    [[DBLP]](https://dblp.org/pid/16/722-6)   [[EN]](index_cn.md)
 
 ## 教学信息
 
-主要教授以下课程 [@Github](https://github.com/fei-hdu/courses)：
+承担的课程 [@Github](https://github.com/fei-hdu/courses)：
 
 - 本科生：《数字图像处理》、《计算机视觉基础》、《创新实践》、《人工智能导论》、《机器学习》
 - 研究生：《深度学习》
+
+## 闲言碎语
+
+- [学习的十个好习惯与坏习惯（译）](blogs/study_habits.pdf)
+- [研究生复试可能需要注意的事情](reexamination.md)
+- [关于大学生活的一些个人想法](college life.pdf)
+- [关于学生课程问题的回复及闲扯](learn&teach.md)
 
 ## 发表论文
 
