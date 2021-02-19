@@ -27,16 +27,19 @@ Good times, hard times, but never bad times. —— Steve Jobs
 
 ## 发表论文
 
-- Jun Yu, Xingxin Xu, **Fei Gao**\*, Shengjie Shi, et al., "**Towards Realistic Face Photo-Sketch Synthesis via Composition-Aided GANs**," *IEEE Transactions on Cybernatics*,  DOI: 10.1109/TCYB.2020.2972944.  (Corresponding Author) [[project](https://fei-hdu.github.io/ca-gan/)]~[[paper_arxiv](https://arxiv.org/abs/1712.00899)]~[[paper_ieee](https://ieeexplore.ieee.org/abstract/document/9025751)]
+- **Fei Gao**, Xingxin Xu, Jun Yu, Meimei Shang, Xiang Li, and Dacheng Tao, "**Complementary, Heterogeneous and Adversarial Networks for Image-to-Image Translation**," *IEEE Transactions on Image Processing*, 2021. (Accepted)  [[project](https://fei-hdu.github.io/chan/)]
 
-- **Fei Gao**, Jingjie Zhu, Zeyuan Yu, Peng Li, Tao Wang, "**Making Robots Draw A Vivid Portrait In Two Minutes**," in *the Proceedings of the 2020*
-  *IEEE/RSJ International Conference on Intelligent Robots and Systems* (IROS 2020), pp. 9585-9591, Las Vegas, USA, 2020. [[paper_iros]](https://ras.papercept.net/proceedings/IROS20/1854.pdf) ~ [[paper_ariv]](https://arxiv.org/abs/2005.05526) ~ [[project]](https://ricelll.github.io/AiSketcher/)
+- Jun Yu, Xingxin Xu, **Fei Gao**\*, Shengjie Shi, et al. "**Towards Realistic Face Photo-Sketch Synthesis via Composition-Aided GANs**," *IEEE Transactions on Cybernatics*,  DOI: 10.1109/TCYB.2020.2972944.  (Corresponding Author) [[project](https://fei-hdu.github.io/ca-gan/)]~[[paper_arxiv](https://arxiv.org/abs/1712.00899)]~[[paper_ieee](https://ieeexplore.ieee.org/abstract/document/9025751)]
 
-  > - [**AiSketcher**](https://ricelll.github.io/AiSketcher/): **Portrait Drawing Robot**.  
+- Hanliang Jiang, Fuhao Shen, **Fei Gao**\*, Weidong Han. **Learning Efficient, Explainable and Discriminative Representations for Pulmonary Nodules Classification**. *Pattern Recognition*, 113: 107825, 2021. [[paper@PR\]](https://www.sciencedirect.com/science/article/pii/S0031320321000121) [[paper@arxiv\]](https://arxiv.org/abs/2101.07429) [[project\]](https://github.com/fei-hdu/NAS-Lung) (Corresponding Author)
+
+- **Fei Gao**, Jingjie Zhu, Zeyuan Yu, Peng Li, Tao Wang, "**Making Robots Draw A Vivid Portrait In Two Minutes**," in *the Proceedings of the 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems* (IROS 2020), pp. 9585-9591, Las Vegas, USA, 2020. [[paper_iros]](https://ras.papercept.net/proceedings/IROS20/1854.pdf) ~ [[paper_ariv]](https://arxiv.org/abs/2005.05526) ~ [[project]](https://ricelll.github.io/AiSketcher/)
+
+  > - [**AiSketcher**](https://ricelll.github.io/AiSketcher/): **Portrait Drawing Robot**.  (`妙绘艺术`微信小程序可试用)
   >
   >
 
-- Lin Zhao, Meimei Shang, **Fei Gao***, et al. **Representation Learning of Image Composition for Aesthetic Prediction**. *Computer Vision and Image Understanding* (CVIU), vol. 199, 103024, Oct. 2020. [[project]](https://github.com/fei-hdu/ReLIC)~[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314220300801)]
+- Lin Zhao, Meimei Shang, **Fei Gao\* **, et al. "**Representation Learning of Image Composition for Aesthetic Prediction**," *Computer Vision and Image Understanding* (CVIU), vol. 199, 103024, Oct. 2020. [[project]](https://github.com/fei-hdu/ReLIC)~[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1077314220300801)
 
 - 黄菲, **高飞**, 朱静洁, 戴玲娜, 俞俊. **基于生成对抗网络的异质人脸图像合成: 进展与挑战**[J]. 南京信息工程大学学报, 2019, 11(6): 660~681. [[paper](http://nxdxb.cnjournals.org/ch/reader/view_abstract.aspx?file_no=20190604&flag=1)]
 
