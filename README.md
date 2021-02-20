@@ -25,7 +25,7 @@ He mainly applies machine learning techniques to computer vision problems. His r
 
   > - [**AiSketcher**](https://ricelll.github.io/AiSketcher/): **Portrait Drawing Robot**.    (`妙绘艺术`微信小程序可试用)
 
-- Lin Zhao, Meimei Shang, **Fei Gao\* **, et al. "**Representation Learning of Image Composition for Aesthetic Prediction**," *Computer Vision and Image Understanding* (CVIU), vol. 199, 103024, Oct. 2020. [[project]](https://github.com/fei-hdu/ReLIC)~[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1077314220300801)
+- Lin Zhao, Meimei Shang, **Fei Gao**\*, et al. "**Representation Learning of Image Composition for Aesthetic Prediction**," *Computer Vision and Image Understanding* (CVIU), vol. 199, 103024, Oct. 2020. [[project]](https://github.com/fei-hdu/ReLIC)~[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1077314220300801)
 
 - Fei Huang, **Fei Gao**, et al. Heterogeneous face synthesis via generative adversarial networks: progresses and challenges. Journal of Nanjing University of Information Science and Technology (Natural Science Edition), 2019, 11(6): 660-681. 
 

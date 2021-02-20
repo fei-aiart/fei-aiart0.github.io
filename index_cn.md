@@ -39,7 +39,7 @@ Good times, hard times, but never bad times. —— Steve Jobs
   >
   >
 
-- Lin Zhao, Meimei Shang, **Fei Gao\* **, et al. "**Representation Learning of Image Composition for Aesthetic Prediction**," *Computer Vision and Image Understanding* (CVIU), vol. 199, 103024, Oct. 2020. [[project]](https://github.com/fei-hdu/ReLIC)~[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1077314220300801)
+- Lin Zhao, Meimei Shang, **Fei Gao**\*, et al. "**Representation Learning of Image Composition for Aesthetic Prediction**," *Computer Vision and Image Understanding* (CVIU), vol. 199, 103024, Oct. 2020. [[project]](https://github.com/fei-hdu/ReLIC)~[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1077314220300801)
 
 - 黄菲, **高飞**, 朱静洁, 戴玲娜, 俞俊. **基于生成对抗网络的异质人脸图像合成: 进展与挑战**[J]. 南京信息工程大学学报, 2019, 11(6): 660~681. [[paper](http://nxdxb.cnjournals.org/ch/reader/view_abstract.aspx?file_no=20190604&flag=1)]
 
