@@ -19,7 +19,7 @@ He mainly applies machine learning techniques to computer vision problems. His r
 
 - **Fei Gao**, Xingxin Xu, Jun Yu, Meimei Shang, Xiang Li, and Dacheng Tao, "**Complementary, Heterogeneous and Adversarial Networks for Image-to-Image Translation**," *IEEE Transactions on Image Processing*, 2021. (Accepted)  [[project](https://fei-hdu.github.io/chan/)]
 
-- Jun Yu, Xingxin Xu, **Fei Gao**\*, Shengjie Shi, et al. "**Towards Realistic Face Photo-Sketch Synthesis via Composition-Aided GANs**," *IEEE Transactions on Cybernatics*,  DOI: 10.1109/TCYB.2020.2972944.  (Corresponding Author) [[project](https://fei-hdu.github.io/ca-gan/)]~[[paper_arxiv](https://arxiv.org/abs/1712.00899)]~[[paper_ieee](https://ieeexplore.ieee.org/abstract/document/9025751)]
+- Jun Yu, Xingxin Xu, **Fei Gao**\*, Shengjie Shi, et al. "**Towards Realistic Face Photo-Sketch Synthesis via Composition-Aided GANs**," *IEEE Transactions on Cybernatics*,  DOI: 10.1109/TCYB.2020.2972944.  (Corresponding Author) [[project](https://fei-hdu.github.io/ca-gan/)] ~ [[paper_arxiv](https://arxiv.org/abs/1712.00899)] ~ [[paper_ieee](https://ieeexplore.ieee.org/abstract/document/9025751)]
 
 - Hanliang Jiang, Fuhao Shen, **Fei Gao**\*, Weidong Han. **Learning Efficient, Explainable and Discriminative Representations for Pulmonary Nodules Classification**. *Pattern Recognition*, 113: 107825, 2021. [[paper@PR\]](https://www.sciencedirect.com/science/article/pii/S0031320321000121) [[paper@arxiv\]](https://arxiv.org/abs/2101.07429) [[project\]](https://github.com/fei-hdu/NAS-Lung) (Corresponding Author)
 
