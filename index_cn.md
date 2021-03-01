@@ -10,8 +10,15 @@ Good times, hard times, but never bad times. —— Steve Jobs
 
 - 办公地址：1教528室
 - 更多信息： [[Github]](https://github.com/fei-hdu)    [[Google Scholar]](https://scholar.google.com/citations?user=wawnisoAAAAJ&hl=en)    [[DBLP]](https://dblp.org/pid/16/722-6)   [[EN]](README.md)
+- 招生信息：每年预计招收1-3名研究生，以算法研发为主。如果有意向报考，欢迎邮件联系（邮箱见下图）
+  - 请将**个人简历、本科成绩单、研究生考试成绩单**以**附件**形式发送；
+  - 附件及邮件标题，注明个人姓名。
+
+
 
 ![intro_fei_small](images/intro_fei_small.jpg)
+
+
 
 ## 教学信息
 
