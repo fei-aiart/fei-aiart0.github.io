@@ -18,8 +18,6 @@ Good times, hard times, but never bad times. —— Steve Jobs
 
 ![intro_fei_small](images/intro_fei_small.jpg)
 
-
-
 ## 教学信息
 
 承担的课程 [@Github](https://github.com/fei-hdu/courses)：
