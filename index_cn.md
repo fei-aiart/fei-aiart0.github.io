@@ -11,6 +11,8 @@ Good times, hard times, but never bad times. —— Steve Jobs
 - 办公地址：1教528室
 - 更多信息： [[Github]](https://github.com/fei-hdu)    [[Google Scholar]](https://scholar.google.com/citations?user=wawnisoAAAAJ&hl=en)    [[DBLP]](https://dblp.org/pid/16/722-6)   [[EN]](README.md)
 
+![intro_fei_small](images/intro_fei_small.jpg)
+
 ## 教学信息
 
 承担的课程 [@Github](https://github.com/fei-hdu/courses)：

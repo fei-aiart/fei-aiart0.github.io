@@ -13,6 +13,8 @@ He mainly applies machine learning techniques to computer vision problems. His r
 
 [[Github]](https://github.com/fei-hdu)    [[Google Scholar]](https://scholar.google.com/citations?user=wawnisoAAAAJ&hl=en)    [[DBLP]](https://dblp.org/pid/16/722-6)  [[CN]](index_cn.md)
 
+![intro_fei_small](images/intro_fei_small.jpg)
+
 ## Selected Publications
 
 - **Fei Gao**, Xingxin Xu, Jun Yu, Meimei Shang, Xiang Li, and Dacheng Tao, "**Complementary, Heterogeneous and Adversarial Networks for Image-to-Image Translation**," *IEEE Transactions on Image Processing*, 2021. (Accepted)  [[project](https://fei-hdu.github.io/chan/)]
