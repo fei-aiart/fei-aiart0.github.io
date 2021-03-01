@@ -29,7 +29,9 @@ He mainly applies machine learning techniques to computer vision problems. His r
 
 - Lin Zhao, Meimei Shang, **Fei Gao**\*, et al. "**Representation Learning of Image Composition for Aesthetic Prediction**," *Computer Vision and Image Understanding* (CVIU), vol. 199, 103024, Oct. 2020. [[project]](https://github.com/fei-hdu/ReLIC)~[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1077314220300801)
 
-- Fei Huang, **Fei Gao**, et al. Heterogeneous face synthesis via generative adversarial networks: progresses and challenges. Journal of Nanjing University of Information Science and Technology (Natural Science Edition), 2019, 11(6): 660-681. 
+- 黄菲, **高飞**, 朱静洁, 戴玲娜, 俞俊. **基于生成对抗网络的异质人脸图像合成: 进展与挑战**[J]. 南京信息工程大学学报, 2019, 11(6): 660~681. [[paper](http://nxdxb.cnjournals.org/ch/reader/view_abstract.aspx?file_no=20190604&flag=1)]
+
+  > Fei Huang, **Fei Gao**, et al. **Heterogeneous face synthesis via generative adversarial networks: progresses and challenges**. Journal of Nanjing University of Information Science and Technology (Natural Science Edition), 2019, 11(6): 660-681. (In Chinese)
 
 - **Fei Gao**, Shengjie Shi, et al., "**Improving Facial Attractiveness Prediction via Co-attention Learning**," 2019 *IEEE International Conference on Acoustics, Speech and Signal Processing* (ICASSP), pp. 4045-4049, 12-17 May 2019. [[paper]](https://xplorestaging.ieee.org/document/8683112?denied=)~[[project]](https://github.com/fei-hdu/FaceAttract)
 
