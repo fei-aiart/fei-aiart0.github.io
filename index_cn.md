@@ -1,6 +1,7 @@
 <!-- 
 ``` 
 Good times, hard times, but never bad times. —— Steve Jobs
+高飞，杭州电子科技大学，计算机学院
 ```
 -->
 
@@ -10,7 +11,7 @@ Good times, hard times, but never bad times. —— Steve Jobs
 
 - 办公地址：1教528室
 - 更多信息： [[Github]](https://github.com/fei-hdu)    [[Google Scholar]](https://scholar.google.com/citations?user=wawnisoAAAAJ&hl=en)    [[DBLP]](https://dblp.org/pid/16/722-6)   [[EN]](README.md)
-- 招生信息：
+- 招生信息 [@杭电](http://computer.hdu.edu.cn/11269.html)：
   - 每年预计招收1-3名硕士研究生，以算法研究为主；
   - 如有意向报考，欢迎邮件联系（邮箱见下图）；
   - 请将**个人简历、本科成绩单、研究生考试成绩单**以**附件**形式发送；
@@ -35,11 +36,11 @@ Good times, hard times, but never bad times. —— Steve Jobs
 
 ## 发表论文
 
-- **Fei Gao**, Xingxin Xu, Jun Yu, Meimei Shang, Xiang Li, and Dacheng Tao, "**Complementary, Heterogeneous and Adversarial Networks for Image-to-Image Translation**," *IEEE Transactions on Image Processing*, 2021. (Accepted)  [[project](https://fei-hdu.github.io/chan/)]
+- **Fei Gao**, Xingxin Xu, Jun Yu, Meimei Shang, Xiang Li, and Dacheng Tao, "**Complementary, Heterogeneous and Adversarial Networks for Image-to-Image Translation**," *IEEE Transactions on Image Processing*, 2021.  DOI: [10.1109/TIP.2021.3061286](https://doi.org/10.1109/tip.2021.3061286) (Accepted)  [[paper]](https://ieeexplore.ieee.org/document/9366371) ~ [[project]](https://fei-hdu.github.io/chan/)
 
 - Jun Yu, Xingxin Xu, **Fei Gao**\*, Shengjie Shi, et al. "**Towards Realistic Face Photo-Sketch Synthesis via Composition-Aided GANs**," *IEEE Transactions on Cybernatics*,  DOI: 10.1109/TCYB.2020.2972944.  (Corresponding Author) [[project](https://fei-hdu.github.io/ca-gan/)] ~ [[paper_arxiv](https://arxiv.org/abs/1712.00899)] ~ [[paper_ieee](https://ieeexplore.ieee.org/abstract/document/9025751)]
 
-- Hanliang Jiang, Fuhao Shen, **Fei Gao**\*, Weidong Han. **Learning Efficient, Explainable and Discriminative Representations for Pulmonary Nodules Classification**. *Pattern Recognition*, 113: 107825, 2021. [[paper@PR\]](https://www.sciencedirect.com/science/article/pii/S0031320321000121) ~ [[paper@arxiv\]](https://arxiv.org/abs/2101.07429) ~ [[project\]](https://github.com/fei-hdu/NAS-Lung) (Corresponding Author)
+- Hanliang Jiang, Fuhao Shen, **Fei Gao**\*, Weidong Han. **Learning Efficient, Explainable and Discriminative Representations for Pulmonary Nodules Classification**. *Pattern Recognition*, 113: 107825, 2021. [[paper@PR]](https://www.sciencedirect.com/science/article/pii/S0031320321000121) ~ [[paper@arxiv]](https://arxiv.org/abs/2101.07429) ~ [[project]](https://github.com/fei-hdu/NAS-Lung) (Corresponding Author)
 
 - **Fei Gao**, Jingjie Zhu, Zeyuan Yu, Peng Li, Tao Wang, "**Making Robots Draw A Vivid Portrait In Two Minutes**," in *the Proceedings of the 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems* (IROS 2020), pp. 9585-9591, Las Vegas, USA, 2020. [[paper_iros]](https://ras.papercept.net/proceedings/IROS20/1854.pdf) ~ [[paper_ariv]](https://arxiv.org/abs/2005.05526) ~ [[project]](https://ricelll.github.io/AiSketcher/)
 
