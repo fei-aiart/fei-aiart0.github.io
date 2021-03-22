@@ -18,7 +18,7 @@ He mainly applies machine learning techniques to computer vision problems. His r
 
 ## Selected Publications
 
-- **Fei Gao**, Xingxin Xu, Jun Yu, Meimei Shang, Xiang Li, and Dacheng Tao, "**Complementary, Heterogeneous and Adversarial Networks for Image-to-Image Translation**," *IEEE Transactions on Image Processing*, 2021. DOI: [10.1109/TIP.2021.3061286](https://doi.org/10.1109/tip.2021.3061286) (Accepted)  [[paper]](https://ieeexplore.ieee.org/document/9366371) ~ [[project]](https://fei-hdu.github.io/chan/)
+- **Fei Gao**, Xingxin Xu, Jun Yu, Meimei Shang, Xiang Li, and Dacheng Tao, "**Complementary, Heterogeneous and Adversarial Networks for Image-to-Image Translation**," *IEEE Transactions on Image Processing*, vol. 30, pp. 3487 - 3498, 2021. DOI: [10.1109/TIP.2021.3061286](https://doi.org/10.1109/tip.2021.3061286) (Accepted)  [[paper_ieee]](https://ieeexplore.ieee.org/document/9366371) ~ [[project]](https://fei-hdu.github.io/chan/)
 
 - Jun Yu, Xingxin Xu, **Fei Gao**\*, Shengjie Shi, et al. "**Towards Realistic Face Photo-Sketch Synthesis via Composition-Aided GANs**," *IEEE Transactions on Cybernatics*,  DOI: 10.1109/TCYB.2020.2972944.  (Corresponding Author) [[project](https://fei-hdu.github.io/ca-gan/)] ~ [[paper_arxiv](https://arxiv.org/abs/1712.00899)] ~ [[paper_ieee](https://ieeexplore.ieee.org/abstract/document/9025751)]
 

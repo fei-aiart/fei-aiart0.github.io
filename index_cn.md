@@ -12,7 +12,7 @@ Good times, hard times, but never bad times. —— Steve Jobs
 - 办公地址：1教528室
 - 更多信息： [[Github]](https://github.com/fei-hdu)    [[Google Scholar]](https://scholar.google.com/citations?user=wawnisoAAAAJ&hl=en)    [[DBLP]](https://dblp.org/pid/16/722-6)   [[EN]](README.md)
 - 招生信息 [@杭电](http://computer.hdu.edu.cn/11269.html)：
-  - 每年预计招收1-3名硕士研究生，以算法研究为主；
+  - 每年预计招收1-3名硕士研究生；
   - 如有意向报考，欢迎邮件联系（邮箱见下图）；
   - 请将**个人简历、本科成绩单、研究生考试成绩单**以**附件**形式发送；
   - 附件及邮件标题，注明个人姓名。
@@ -36,7 +36,7 @@ Good times, hard times, but never bad times. —— Steve Jobs
 
 ## 发表论文
 
-- **Fei Gao**, Xingxin Xu, Jun Yu, Meimei Shang, Xiang Li, and Dacheng Tao, "**Complementary, Heterogeneous and Adversarial Networks for Image-to-Image Translation**," *IEEE Transactions on Image Processing*, 2021.  DOI: [10.1109/TIP.2021.3061286](https://doi.org/10.1109/tip.2021.3061286) (Accepted)  [[paper]](https://ieeexplore.ieee.org/document/9366371) ~ [[project]](https://fei-hdu.github.io/chan/)
+- **Fei Gao**, Xingxin Xu, Jun Yu, Meimei Shang, Xiang Li, and Dacheng Tao, "**Complementary, Heterogeneous and Adversarial Networks for Image-to-Image Translation**," *IEEE Transactions on Image Processing*, vol. 30, pp. 3487 - 3498, 2021. DOI: [10.1109/TIP.2021.3061286](https://doi.org/10.1109/tip.2021.3061286) (Accepted)  [[paper_ieee]](https://ieeexplore.ieee.org/document/9366371) ~ [[project]](https://fei-hdu.github.io/chan/)
 
 - Jun Yu, Xingxin Xu, **Fei Gao**\*, Shengjie Shi, et al. "**Towards Realistic Face Photo-Sketch Synthesis via Composition-Aided GANs**," *IEEE Transactions on Cybernatics*,  DOI: 10.1109/TCYB.2020.2972944.  (Corresponding Author) [[project](https://fei-hdu.github.io/ca-gan/)] ~ [[paper_arxiv](https://arxiv.org/abs/1712.00899)] ~ [[paper_ieee](https://ieeexplore.ieee.org/abstract/document/9025751)]
 
