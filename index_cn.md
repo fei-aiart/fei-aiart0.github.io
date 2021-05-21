@@ -25,8 +25,8 @@ Good times, hard times, but never bad times. —— Steve Jobs
 
 承担的课程 [@Github](https://github.com/fei-hdu/courses)：
 
-- 本科生：《数字图像处理》、《计算机视觉基础》、《创新实践》、《人工智能导论》、《机器学习》
-- 研究生：《深度学习》
+- 本科生：《[数字图像处理](https://aiart.live/courses/dip.html)》、《[计算机视觉(基础)](https://aiart.live/courses/cv.html)》、《创新实践》、《[人工智能导论](https://aiart.live/courses/intro2ai.html)》、《[机器学习与深度学习](https://aiart.live/courses/dl.html)》
+- 研究生：《[深度学习](https://aiart.live/courses/dl.html)》
 
 ## 闲言碎语
 
