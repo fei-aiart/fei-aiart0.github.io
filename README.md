@@ -1,13 +1,13 @@
 <!-- 
 ``` 
 Good times, hard times, but never bad times. —— Steve Jobs
-高飞，杭州电子科技大学，计算机学院
+高飞，西安电子科技大学，杭州研究院
 ```
 -->
 
 ## Biography
 
-**Fei Gao** is currently with the [School of Computer Science and Technology](http://computer.hdu.edu.cn/), in [Hangzhou Dianzi University (HDU)](http://www.hdu.edu.cn/). He received his Bachelor Degree in Electronic Engineering and Ph.D. Degree in Information and Communication Engineering from [Xidian University](http://www.xidian.edu.cn/) (Xi'an, China) in 2009 and 2015, respectively. From Oct. 2012 to Sep. 2013, he was a Visiting Ph.D. Candidate in University of Technology, Sydney (UTS) in Australia. 
+**Fei Gao** is currently with the [Hangzhou Institute of Technology](http://hz.xidian.edu.cn/), in [Xidian University](http://www.xidian.edu.cn/). He received his Bachelor Degree in Electronic Engineering and Ph.D. Degree in Information and Communication Engineering from [Xidian University](http://www.xidian.edu.cn/) (Xi'an, China) in 2009 and 2015, respectively. From Oct. 2012 to Sep. 2013, he was a Visiting Ph.D. Candidate in University of Technology, Sydney (UTS) in Australia. 
 
 He mainly applies machine learning techniques to computer vision problems. His research interests include **visual quality assessment and enhancement, intelligent visual arts generation, biomedical image analysis,** etc. His research results have expounded in more than 20 publications at prestigious journals and conferences. He serverd for a number of journals and conferences.
 
@@ -16,6 +16,8 @@ He mainly applies machine learning techniques to computer vision problems. His r
 ![intro_fei_small](images/qrcode.jpg)
 
 ## Selected Publications
+
+- Chang Jiang, **Fei Gao**, Biao Ma, Yuhao Lin, Nannan Wang, Gang Xu, "**Masked and Adaptive Transformer for Exemplar Based Image Translation**," *IEEE CVPR*, accepted, 2023. [[paper_arxiv]](https://arxiv.org/abs/2303.17123) ~ [[project]](https://github.com/AiArt-HDU/MATEBIT)
 
 - **Fei Gao**, Xingxin Xu, Jun Yu, Meimei Shang, Xiang Li, and Dacheng Tao, "**Complementary, Heterogeneous and Adversarial Networks for Image-to-Image Translation**," *IEEE Transactions on Image Processing*, vol. 30, pp. 3487 - 3498, 2021. [[paper_ieee]](https://ieeexplore.ieee.org/document/9366371) ~ [[project]](https://fei-hdu.github.io/chan/)
 
