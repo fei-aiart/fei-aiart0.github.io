@@ -13,7 +13,6 @@ He mainly applies machine learning techniques to computer vision problems. His r
 
 [[Github]](https://github.com/fei-hdu)    [[Google Scholar]](https://scholar.google.com/citations?user=wawnisoAAAAJ&hl=en)   [[DBLP]](https://dblp.org/pid/16/722-6)  [[CN]](index_cn.md)
 
-![intro_fei_small](images/qrcode.jpg)
 
 ## Selected Publications
 
