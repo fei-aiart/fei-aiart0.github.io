@@ -7,14 +7,17 @@ Good times, hard times, but never bad times. —— Steve Jobs
 
 ## Biography
 
-**Fei Gao** is currently with the [Hangzhou Institute of Technology](http://hz.xidian.edu.cn/), in [Xidian University](http://www.xidian.edu.cn/). He received his Bachelor Degree in Electronic Engineering and Ph.D. Degree in Information and Communication Engineering from [Xidian University](http://www.xidian.edu.cn/) (Xi'an, China) in 2009 and 2015, respectively. From Oct. 2012 to Sep. 2013, he was a Visiting Ph.D. Candidate in University of Technology, Sydney (UTS) in Australia. 
+**Fei Gao** is currently with the [Hangzhou Institute of Technology](http://hz.xidian.edu.cn/), in [Xidian University](http://www.xidian.edu.cn/). He received his Bachelor Degree in Electronic Engineering and Ph.D. Degree in Information and Communication Engineering from [Xidian University](http://www.xidian.edu.cn/) (Xi'an, China) in 2009 and 2015, respectively. From Oct. 2012 to Sep. 2013, he was a Visiting Ph.D. Candidate in University of Technology, Sydney (UTS) in Australia. From 2015 to 2022, he works at Hangzhou Dianzi University.
 
-He mainly applies machine learning techniques to computer vision problems. His research interests include **visual quality assessment and enhancement, intelligent visual arts generation, biomedical image analysis,** etc. His research results have expounded in more than 20 publications at prestigious journals and conferences. He serverd for a number of journals and conferences.
+He mainly applies machine learning techniques to computer vision problems. His research interests include **visual quality assessment and enhancement, intelligent visual arts generation, biomedical image analysis,** etc. His research results have expounded in more than 30 publications at prestigious journals and conferences. He serverd for a number of journals and conferences.
 
 [[Github]](https://github.com/fei-hdu)    [[Google Scholar]](https://scholar.google.com/citations?user=wawnisoAAAAJ&hl=en)   [[DBLP]](https://dblp.org/pid/16/722-6)  [[CN]](index_cn.md)
 
 
 ## Selected Publications
+
+- Biao Ma, **Fei Gao** , Chang Jiang, Nannan Wang, Gang Xu, "**Semantic-aware Generation of Multi-view Portrait Drawings**," *the 32nd International Joint Conference on Artificial Intelligence (IJCAI)*, accepted, 2023.
+
 
 - Chang Jiang, **Fei Gao**, Biao Ma, Yuhao Lin, Nannan Wang, Gang Xu, "**Masked and Adaptive Transformer for Exemplar Based Image Translation**," *IEEE CVPR*, accepted, 2023. [[paper_arxiv]](https://arxiv.org/abs/2303.17123) ~ [[project]](https://github.com/AiArt-HDU/MATEBIT)
 
