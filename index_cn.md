@@ -9,7 +9,7 @@ Good times, hard times, but never bad times. —— Steve Jobs
 
 **高飞** ，湘湖菁英教授，西安电子科技大学 杭州研究院。于2015年于西安电子科技大学获得信息与通信工程专业博士学位，期间到澳大利亚悉尼科技大学访问学习1年，2015-2022年在杭州电子科技大学计算机学院担任讲师/副教授。主要研究兴趣为计算机视觉与机器学习，涉及**智能视觉艺术、医学影像分析、艺术机器人**等课题，现已在主流国际期刊、会议上发表论文30余篇，主持及参与多项国家自然科学基金及浙江省自然科学基金项目，担任多个国际期刊和会议的审稿人。
 
-- 更多信息： [[Github]](https://github.com/fei-hdu)    [[Google Scholar]](https://scholar.google.com/citations?user=wawnisoAAAAJ&hl=en)    [[DBLP]](https://dblp.org/pid/16/722-6)   [[EN]](README.md)
+- 更多信息： [[Github]](https://github.com/fei-aiart)    [[Google Scholar]](https://scholar.google.com/citations?user=wawnisoAAAAJ&hl=en)    [[DBLP]](https://dblp.org/pid/16/722-6)   [[EN]](README.md)
 - 招生信息 [@杭电](http://computer.hdu.edu.cn/11269.html)：
   - 每年预计招收1-3名硕士研究生；
   - 如有意向报考，欢迎邮件联系；
@@ -32,7 +32,7 @@ Good times, hard times, but never bad times. —— Steve Jobs
 ## 发表论文
 
 - Biao Ma, **Fei Gao** , Chang Jiang, Nannan Wang, Gang Xu, "**Semantic-aware Generation of Multi-view Portrait Drawings**," *the 32nd International Joint Conference on Artificial Intelligence (IJCAI)*, accepted, 2023.
-- 
+
 - Chang Jiang, **Fei Gao**, Biao Ma, Yuhao Lin, Nannan Wang, Gang Xu, "**Masked and Adaptive Transformer for Exemplar Based Image Translation**," *IEEE CVPR*, accepted, 2023. [[paper_arxiv]](https://arxiv.org/abs/2303.17123) ~ [[project]](https://github.com/AiArt-HDU/MATEBIT)
 
 - **Fei Gao**, Xingxin Xu, Jun Yu, Meimei Shang, Xiang Li, and Dacheng Tao, "**Complementary, Heterogeneous and Adversarial Networks for Image-to-Image Translation**," *IEEE Transactions on Image Processing*, vol. 30, pp. 3487 - 3498, 2021. [[paper_ieee]](https://ieeexplore.ieee.org/document/9366371) ~ [[project]](https://fei-hdu.github.io/chan/)
