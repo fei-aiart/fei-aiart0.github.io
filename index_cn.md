@@ -31,7 +31,8 @@ Good times, hard times, but never bad times. —— Steve Jobs
 
 ## 发表论文
 
-- Biao Ma, **Fei Gao** , Chang Jiang, Nannan Wang, Gang Xu, "**Semantic-aware Generation of Multi-view Portrait Drawings**," *the 32nd International Joint Conference on Artificial Intelligence (IJCAI)*, accepted, 2023.
+- Biao Ma, **Fei Gao** , Chang Jiang, Nannan Wang, Gang Xu, "**Semantic-aware Generation of Multi-view Portrait Drawings**," *the 32nd International Joint Conference on Artificial Intelligence (IJCAI)*, accepted, 2023. [[paper_arxiv]](https://arxiv.org/abs/2305.02618) ~ [[project]](https://github.com/AiArt-HDU/SAGE) 
+
 
 - Chang Jiang, **Fei Gao**, Biao Ma, Yuhao Lin, Nannan Wang, Gang Xu, "**Masked and Adaptive Transformer for Exemplar Based Image Translation**," *IEEE CVPR*, accepted, 2023. [[paper_arxiv]](https://arxiv.org/abs/2303.17123) ~ [[project]](https://github.com/AiArt-HDU/MATEBIT)
 
