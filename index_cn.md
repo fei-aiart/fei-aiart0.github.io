@@ -7,7 +7,9 @@ Good times, hard times, but never bad times. —— Steve Jobs
 
 ## 个人简介
 
-**高飞** ，湘湖菁英教授，西安电子科技大学 杭州研究院。于2015年于西安电子科技大学获得信息与通信工程专业博士学位，期间到澳大利亚悉尼科技大学访问学习1年，2015-2022年在杭州电子科技大学计算机学院担任讲师/副教授。主要研究兴趣为计算机视觉与机器学习，涉及**智能视觉艺术、医学影像分析、艺术机器人**等课题，现已在主流国际期刊、会议上发表论文30余篇，主持及参与多项国家自然科学基金及浙江省自然科学基金项目，担任多个国际期刊和会议的审稿人。
+**高飞** ，湘湖菁英教授，西安电子科技大学 杭州研究院。分别于2009年和2015年获得西安电子科技大学电子信息工程专业学士学位和信息与通信工程专业博士学位（导师：高新波 教授）。期间，于2012-2013年到澳大利亚悉尼科技大学进行博士联合培养（导师：陶大程 教授）。自2015年至2022年，任职于杭州电子科技大学计算机学院；并于2019年至2020年期间担任浙江省北大信息技术高等研究院双聘研究员。
+
+长期从事计算机视觉和机器学习等方面的研究工作，主要研究兴趣包括计算艺术、智慧医疗、工业视觉等，涉及视觉质量评价、智能内容生成（AIGC）、绘画机器人、医疗影像分析等课题。在IEEE TNNLS、TCyber、TIP、TMM、CVPR、IJCAI、IROS等期刊和会议上发表论文30余篇，ESI高被引论文1篇。获得陕西省科学技术奖一等奖、IEEE ICME’21最佳展示奖亚军、全国博士后创新创业大赛铜奖等。主持国家自然科学基金面上项目、青年项目及浙江省自然科学基金青年项目，并参与多项科研课题。目前担任浙江省抗癌协会人工智能肿瘤诊疗专委会委员，国际期刊The Visual Computer (TVCJ)副主编，及IEEE TIP, TMM, CVPR, ICCV等国际期刊和会议的审稿人。
 
 - 更多信息： [[Github]](https://github.com/fei-aiart)    [[Google Scholar]](https://scholar.google.com/citations?user=wawnisoAAAAJ&hl=en)    [[DBLP]](https://dblp.org/pid/16/722-6)   [[EN]](README.md)
 - 招生信息 [@杭电](http://computer.hdu.edu.cn/11269.html)：
@@ -33,7 +35,7 @@ Good times, hard times, but never bad times. —— Steve Jobs
 
 - Biao Ma, **Fei Gao** , Chang Jiang, Nannan Wang, Gang Xu, "**Semantic-aware Generation of Multi-view Portrait Drawings**," *the 32nd International Joint Conference on Artificial Intelligence (IJCAI)*, accepted, 2023. [[paper_arxiv]](https://arxiv.org/abs/2305.02618) ~ [[Github]](https://github.com/AiArt-HDU/SAGE)  ~ [[project]](https://vmaibex.github.io/)
 
-- Chang Jiang, **Fei Gao**, Biao Ma, Yuhao Lin, Nannan Wang, Gang Xu, "**Masked and Adaptive Transformer for Exemplar Based Image Translation**," *IEEE CVPR*, accepted, 2023. [[paper_arxiv]](https://arxiv.org/abs/2303.17123) ~ [[project]](https://github.com/AiArt-HDU/MATEBIT)
+- Chang Jiang, **Fei Gao**, Biao Ma, Yuhao Lin, Nannan Wang, Gang Xu, "**Masked and Adaptive Transformer for Exemplar Based Image Translation**," *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* (CVPR), 2023, pp. 22418-22427. [[paper_cvpr]](https://openaccess.thecvf.com/content/CVPR2023/html/Jiang_Masked_and_Adaptive_Transformer_for_Exemplar_Based_Image_Translation_CVPR_2023_paper.html) ~  [[paper_arxiv]](https://arxiv.org/abs/2303.17123) ~ [[project]](https://github.com/AiArt-HDU/MATEBIT)
 
 - **Fei Gao**, Xingxin Xu, Jun Yu, Meimei Shang, Xiang Li, and Dacheng Tao, "**Complementary, Heterogeneous and Adversarial Networks for Image-to-Image Translation**," *IEEE Transactions on Image Processing*, vol. 30, pp. 3487 - 3498, 2021. [[paper_ieee]](https://ieeexplore.ieee.org/document/9366371) ~ [[project]](https://fei-hdu.github.io/chan/)
 
