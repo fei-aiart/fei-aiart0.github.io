@@ -16,10 +16,9 @@ He mainly applies machine learning techniques to computer vision problems. His r
 
 ## Selected Publications
 
-- Biao Ma, **Fei Gao** , Chang Jiang, Nannan Wang, Gang Xu, "**Semantic-aware Generation of Multi-view Portrait Drawings**," *the 32nd International Joint Conference on Artificial Intelligence (IJCAI)*, accepted, 2023.  [[paper_arxiv]](https://arxiv.org/abs/2305.02618) ~ [[Github]](https://github.com/AiArt-HDU/SAGE)  ~ [[project]](https://vmaibex.github.io/)
+- Biao Ma, **Fei Gao*** , Chang Jiang, Nannan Wang, Gang Xu, "**Semantic-aware Generation of Multi-view Portrait Drawings**," *the 32nd International Joint Conference on Artificial Intelligence (IJCAI)*, accepted, 2023. [[paper_arxiv]](https://arxiv.org/abs/2305.02618) ~ [[Github]](https://github.com/AiArt-HDU/SAGE)  ~ [[project]](https://vmaibex.github.io/)
 
-
-- Chang Jiang, **Fei Gao**, Biao Ma, Yuhao Lin, Nannan Wang, Gang Xu, "**Masked and Adaptive Transformer for Exemplar Based Image Translation**," *IEEE CVPR*, accepted, 2023. [[paper_arxiv]](https://arxiv.org/abs/2303.17123) ~ [[project]](https://github.com/AiArt-HDU/MATEBIT)
+- Chang Jiang, **Fei Gao***, Biao Ma, Yuhao Lin, Nannan Wang, Gang Xu, "**Masked and Adaptive Transformer for Exemplar Based Image Translation**," *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* (CVPR), 2023, pp. 22418-22427. [[paper_cvpr]](https://openaccess.thecvf.com/content/CVPR2023/html/Jiang_Masked_and_Adaptive_Transformer_for_Exemplar_Based_Image_Translation_CVPR_2023_paper.html) ~  [[paper_arxiv]](https://arxiv.org/abs/2303.17123) ~ [[project]](https://github.com/AiArt-HDU/MATEBIT)
 
 - **Fei Gao**, Xingxin Xu, Jun Yu, Meimei Shang, Xiang Li, and Dacheng Tao, "**Complementary, Heterogeneous and Adversarial Networks for Image-to-Image Translation**," *IEEE Transactions on Image Processing*, vol. 30, pp. 3487 - 3498, 2021. [[paper_ieee]](https://ieeexplore.ieee.org/document/9366371) ~ [[project]](https://fei-hdu.github.io/chan/)
 
