@@ -9,7 +9,7 @@ Good times, hard times, but never bad times. —— Steve Jobs
 
 **高飞** ，湘湖菁英教授，西安电子科技大学 杭州研究院。分别于2009年和2015年获得西安电子科技大学电子信息工程专业学士学位和信息与通信工程专业博士学位（导师：高新波 教授）。期间，于2012-2013年到澳大利亚悉尼科技大学进行博士联合培养（导师：陶大程 教授）。自2015年至2022年，任职于杭州电子科技大学计算机学院；并于2019年至2020年期间担任浙江省北大信息技术高等研究院双聘研究员。
 
-长期从事计算机视觉和机器学习等方面的研究工作，主要研究兴趣包括计算艺术、智慧医疗、工业视觉等，涉及视觉质量评价、智能内容生成（AIGC）、绘画机器人、医疗影像分析等课题。在IEEE TNNLS、TCyber、TIP、TMM、CVPR、IJCAI、IROS等期刊和会议上发表论文30余篇，ESI高被引论文1篇。获得陕西省科学技术奖一等奖、IEEE ICME’21最佳展示奖亚军、全国博士后创新创业大赛铜奖等。主持国家自然科学基金面上项目、青年项目及浙江省自然科学基金青年项目，并参与多项科研课题。目前担任浙江省抗癌协会人工智能肿瘤诊疗专委会委员，国际期刊The Visual Computer (TVCJ)副主编，及IEEE TIP, TMM, CVPR, ICCV等国际期刊和会议的审稿人。
+长期从事计算机视觉和机器学习等方面的研究工作，主要研究兴趣包括计算艺术、智慧医疗、工业视觉等，涉及视觉质量评价、智能内容生成（AIGC）、绘画机器人、医疗影像分析等课题。在IEEE TNNLS、TCyber、TIP、TMM、CVPR、IJCAI、IROS等期刊和会议上发表论文30余篇，ESI高被引论文1篇。获得陕西省科学技术奖一等奖、IEEE ICME’21最佳展示奖亚军、全国博士后创新创业大赛铜奖等。主持国家自然科学基金面上项目、青年项目及浙江省自然科学基金青年项目，并参与多项科研课题。目前担任浙江省抗癌协会人工智能肿瘤诊疗专委会委员，国际期刊The Visual Computer (TVCJ)编委，及IEEE TIP, TMM, CVPR, ICCV等国际期刊和会议的审稿人。
 
 - 更多信息： [[Github]](https://github.com/fei-aiart)    [[Google Scholar]](https://scholar.google.com/citations?user=wawnisoAAAAJ&hl=en)    [[DBLP]](https://dblp.org/pid/16/722-6)   [[EN]](README.md)
 - 招生信息 [@杭电](http://computer.hdu.edu.cn/11269.html)：
