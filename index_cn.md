@@ -66,7 +66,3 @@ Good times, hard times, but never bad times. —— Steve Jobs
 - **Fei Gao**, Dacheng Tao, Xinbo Gao, and Xuelong Li, "**Learning to rank for blind image quality assessment**," *IEEE Transactions on Neural Networks and Learning Systems*, vol. 26, no. 10, pp. 2275-2290, Oct. 2015. 
 
 - Xinbo Gao, **Fei Gao**, Dacheng Tao, and Xuelong Li, "**Universal blind image quality assessment metrics via natural scene statistics and multiple kernel learning**," *IEEE Transactions on Neural Networks and Learning Systems*, vol. 24, no. 12, pp. 2013-2026, 2013. 
-
-- Jun Yu, Xingxin Xu, **Fei Gao***, Shengjie Shi, et al. "**Towards Realistic Face Photo-Sketch Synthesis via Composition-Aided GANs**," *IEEE Transactions on Cybernatics*, vol. 51, no. 9, pp. 4350 - 4362, 2021. (Corresponding Author) [[project](https://fei-hdu.github.io/ca-gan/)] ~ [[paper_arxiv](https://arxiv.org/abs/1712.00899)] ~ [[paper_ieee](https://ieeexplore.ieee.org/abstract/document/9025751)]
-
-- Jun Yu, Xingxin Xu, **Fei Gao***, Shengjie Shi, et al. "**Towards Realistic Face Photo-Sketch Synthesis via Composition-Aided GANs**," *IEEE Transactions on Cybernatics*, vol. 51, no. 9, pp. 4350 - 4362, 2021. (Corresponding Author) [[project](https://fei-hdu.github.io/ca-gan/)] ~ [[paper_arxiv](https://arxiv.org/abs/1712.00899)] ~ [[paper_ieee](https://ieeexplore.ieee.org/abstract/document/9025751)]
