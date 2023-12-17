@@ -30,6 +30,7 @@ Good times, hard times, but never bad times. —— Steve Jobs
 - [学习的十个好习惯与坏习惯（译）(PDF)](blogs/study_habits.pdf)
 - [研究生复试可能需要注意的事情](blogs/reexamination.md)
 - [关于大学生活的一些个人想法(PDF)](blogs/collegelife.pdf)
+- [关于科研的一些个人想法(PNG)](blogs/research.png)
 
 ## 发表论文
 
