@@ -20,7 +20,7 @@ He mainly applies machine learning techniques to computer vision problems. His r
 
 - **Fei Gao**, Yifan Zhu, Chang Jiang, Nannan Wang, Human-Inspired Facial Sketch Synthesis with Dynamic Adaptation, Proceedings of the International Conference on Computer Vision (ICCV), 7237-7247, 2023. [[Github]](https://github.com/AiArt-HDU/HIDA)
 
-- **Fei Gao**, Lingna Dai, Jingjie Zhu, Mei Du, Yiyuan Zhang, Maoying Qiao, Chenghao Xia, Nannan Wang, and Peng Li \*， Human-Robot Interactive Creation of Artistic Portrait Drawings, 2024 IEEE International Conference on Robotics and Automation (ICRA), 11297-11304, May13-17, 2024, Yokohama, Japan. (\* Corresponding Author)
+- **Fei Gao**, Lingna Dai, Jingjie Zhu, Mei Du, Yiyuan Zhang, Maoying Qiao, Chenghao Xia, Nannan Wang, and Peng Li \*， Human-Robot Interactive Creation of Artistic Portrait Drawings, 2024 IEEE International Conference on Robotics and Automation (ICRA), 11297-11304, May13-17, 2024, Yokohama, Japan. (\* Corresponding Author) [Github](https://github.com/fei-aiart/HRICA)
 
 - Biao Ma, **Fei Gao*** , Chang Jiang, Nannan Wang, Gang Xu, "**Semantic-aware Generation of Multi-view Portrait Drawings**," *the 32nd International Joint Conference on Artificial Intelligence (IJCAI)*, 1258-1266, 2023. [[paper_arxiv]](https://arxiv.org/abs/2305.02618) ~ [[Github]](https://github.com/AiArt-HDU/SAGE)  ~ [[project]](https://vmaibex.github.io/)
 
