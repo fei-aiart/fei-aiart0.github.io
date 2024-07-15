@@ -12,18 +12,12 @@ Good times, hard times, but never bad times. —— Steve Jobs
 长期从事计算机视觉和机器学习等方面的研究工作，主要研究兴趣包括计算艺术、智慧医疗、工业视觉等，涉及视觉质量评价、智能内容生成（AIGC）、绘画机器人、医疗影像分析等课题。在IEEE TNNLS、TCyber、TIP、TMM、CVPR、ICCV、IJCAI、IROS等期刊和会议上发表论文30余篇，ESI高被引论文1篇。获得陕西省科学技术奖一等奖、IEEE ICME’21最佳展示奖亚军、全国博士后创新创业大赛铜奖等。主持国家自然科学基金面上项目、青年项目及浙江省自然科学基金青年项目，并参与多项科研课题。目前担任浙江省抗癌协会人工智能肿瘤诊疗专委会委员，国际期刊The Visual Computer (TVCJ)编委，及IEEE TIP, TMM, CVPR, ICCV等国际期刊和会议的审稿人。
 
 - 更多信息： [[Github]](https://github.com/fei-aiart)    [[Google Scholar]](https://scholar.google.com/citations?user=wawnisoAAAAJ&hl=en)    [[DBLP]](https://dblp.org/pid/16/722-6)   [[EN]](README.md)
-- 招生信息
-  - 每年预计招收1-2名硕士研究生；
-  - 如有意向报考，欢迎邮件联系；
-  - 请将**个人简历、本科成绩单、研究生考试成绩单**以**附件**形式发送；
-  - 附件及邮件标题，注明个人姓名。
 
 ## 教学信息
 
 承担的课程 [@Github](https://github.com/fei-hdu/courses)：
 
-- 本科生：《[数字图像处理](https://aiart.live/courses/dip.html)》、《[计算机视觉(基础)](https://aiart.live/courses/cv.html)》、《创新实践》、《[人工智能导论](https://aiart.live/courses/intro2ai.html)》、《[机器学习与深度学习](https://aiart.live/courses/dl.html)》、《[深度学习](https://aiart.live/courses/dl.html)》
-- 研究生：《[深度学习](https://aiart.live/courses/dl.html)》
+- 《[数字图像处理](https://aiart.live/courses/dip.html)》、《[计算机视觉(基础)](https://aiart.live/courses/cv.html)》、《[机器学习与深度学习](https://aiart.live/courses/dl.html)》、《[深度学习](https://aiart.live/courses/dl.html)》
 
 ## 闲言碎语
 
@@ -32,7 +26,11 @@ Good times, hard times, but never bad times. —— Steve Jobs
 - [关于大学生活的一些个人想法(PDF)](blogs/collegelife.pdf)
 - [关于科研的一些个人想法(PNG，参考了个人认同的一些他人的想法)](blogs/research.png)
 
-## 发表论文
+## 发表论文  [[Google Scholar]](https://scholar.google.com/citations?user=wawnisoAAAAJ&hl=en)
+
+- Yu Chen \*, **Fei Gao** \*, Yanguang Zhang, Maoying Qiao, Nannan Wang**. Generating Handwritten Mathematical Expressions From Symbol Graphs: An End-to-End Pipeline. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), accepted, Seattle WA, USA, June 17-21, 2024. (\* Equal Contributions)  [Paper](https://cvpr.thecvf.com/virtual/2024/poster/31503) ~ [[Github]](https://github.com/AiArt-HDU/HMEG)
+
+- **Fei Gao**, Lingna Dai, Jingjie Zhu, Mei Du, Yiyuan Zhang, Maoying Qiao, Chenghao Xia, Nannan Wang, and Peng Li \*， Human-Robot Interactive Creation of Artistic Portrait Drawings, 2024 IEEE International Conference on Robotics and Automation (ICRA), accepted, May13-17, 2024, Yokohama, Japan. (\* Corresponding Author)
 
 - **Fei Gao**, Yifan Zhu, Chang Jiang, Nannan Wang, Human-Inspired Facial Sketch Synthesis with Dynamic Adaptation, Proceedings of the International Conference on Computer Vision (ICCV), 7237-7247, 2023. [[Github]](https://github.com/AiArt-HDU/HIDA)
 
