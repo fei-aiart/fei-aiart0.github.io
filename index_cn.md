@@ -28,6 +28,8 @@ Good times, hard times, but never bad times. —— Steve Jobs
 
 ## 发表论文  [[Google Scholar]](https://scholar.google.com/citations?user=wawnisoAAAAJ&hl=en)
 
+- **Fei Gao**, Yuhao Lin, Jiaqi Shi, Maoying Qiao, Nannan Wang\*. AesMamba: Universal Image Aesthetic Assessment with State Space Models. The 32nd ACM Multimedia Conference (ACM MM), Accepted (Oral), 2024. [Paper] ~ [[Github]](https://github.com/AiArt-Gao/AesMamba)
+
 - Yu Chen \*, **Fei Gao** \*, Yanguang Zhang, Maoying Qiao, Nannan Wang**. Generating Handwritten Mathematical Expressions From Symbol Graphs: An End-to-End Pipeline. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), accepted, Seattle WA, USA, June 17-21, 2024. (\* Equal Contributions)  [Paper](https://cvpr.thecvf.com/virtual/2024/poster/31503) ~ [[Github]](https://github.com/AiArt-HDU/HMEG)
 
 - **Fei Gao**, Lingna Dai, Jingjie Zhu, Mei Du, Yiyuan Zhang, Maoying Qiao, Chenghao Xia, Nannan Wang, and Peng Li \*， Human-Robot Interactive Creation of Artistic Portrait Drawings, 2024 IEEE International Conference on Robotics and Automation (ICRA), 11297-11304, May13-17, 2024, Yokohama, Japan. (\* Corresponding Author)  [Github](https://github.com/fei-aiart/HRICA)
