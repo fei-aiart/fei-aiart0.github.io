@@ -18,7 +18,7 @@ He mainly applies machine learning techniques to computer vision problems. His r
 
 - **Fei Gao**, Yuhao Lin, Jiaqi Shi, Maoying Qiao, Nannan Wang\*. AesMamba: Universal Image Aesthetic Assessment with State Space Models. The 32nd ACM Multimedia Conference (ACM MM), Accepted (Oral), 2024. [Paper] ~ [[Github]](https://github.com/AiArt-Gao/AesMamba)
 
-- Yu Chen \*, **Fei Gao** \*, Yanguang Zhang, Maoying Qiao, Nannan Wang**. Generating Handwritten Mathematical Expressions From Symbol Graphs: An End-to-End Pipeline. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), accepted, Seattle WA, USA, June 17-21, 2024. (\* Equal Contributions)  [[Paper]](https://cvpr.thecvf.com/virtual/2024/poster/31503) ~ [[Github]](https://github.com/AiArt-HDU/HMEG)
+- Yu Chen \*, **Fei Gao** \*, Yanguang Zhang, Maoying Qiao, Nannan Wang**. Generating Handwritten Mathematical Expressions From Symbol Graphs: An End-to-End Pipeline. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 15675-15685, Seattle WA, USA, June 17-21, 2024. (\* Equal Contributions)  [[Paper]](https://cvpr.thecvf.com/virtual/2024/poster/31503) ~ [[Github]](https://github.com/AiArt-HDU/HMEG)
 
 - **Fei Gao**, Yifan Zhu, Chang Jiang, Nannan Wang, Human-Inspired Facial Sketch Synthesis with Dynamic Adaptation, Proceedings of the International Conference on Computer Vision (ICCV), 7237-7247, 2023. [[Github]](https://github.com/AiArt-HDU/HIDA)
 
