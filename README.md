@@ -1,13 +1,13 @@
 <!-- 
 ``` 
 Good times, hard times, but never bad times. —— Steve Jobs
-高飞，西安电子科技大学，杭州研究院
+高飞，西电杭研院
 ```
 -->
 
 ## Biography
 
-**Fei Gao** is currently with the [Intelligent Information Processing (IIP) Lab.](https://iip-xdu.github.io/) and [Hangzhou Institute of Technology](http://hz.xidian.edu.cn/), at [Xidian University](http://www.xidian.edu.cn/). He received his Bachelor Degree in Electronic Engineering and Ph.D. Degree in Information and Communication Engineering from [Xidian University](http://www.xidian.edu.cn/) (Xi'an, China) in 2009 and 2015, respectively. From Oct. 2012 to Sep. 2013, he was a Visiting Ph.D. Candidate in University of Technology, Sydney (UTS) in Australia. From 2015 to 2022, he works at Hangzhou Dianzi University.
+**Fei Gao** is currently with the [Intelligent Information Processing (IIP) Lab.](https://iip-xdu.github.io/) and [Hangzhou Institute of Technology](http://hz.xidian.edu.cn/), at [Xidian University](http://www.xidian.edu.cn/). He received his Bachelor Degree in Electronic Engineering and Ph.D. Degree in Information and Communication Engineering from [Xidian University](http://www.xidian.edu.cn/) (Xi'an, China) in 2009 and 2015, respectively. From Oct. 2012 to Sep. 2013, he was a Visiting Ph.D. Candidate in University of Technology, Sydney (UTS) in Australia. From July 2015 to June 2023, he works at Hangzhou Dianzi University.
 
 He mainly applies machine learning techniques to computer vision problems. His research interests include **visual quality assessment and enhancement, intelligent visual arts generation, biomedical image analysis,** etc. His research results have expounded in more than 30 publications at prestigious journals and conferences. He serverd for a number of journals and conferences.
 
